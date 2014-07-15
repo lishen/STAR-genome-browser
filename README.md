@@ -1,5 +1,11 @@
 STAR-genome-browser
 ===================
+
+The prototype of STAR was developed by Dr. Li Shen when he was a postdoctoral researcher at UCSD. Upon his leave, Dr. Tao Wang took over the project and kept improving it. The paper about STAR is published in Bioinformatics. Here is the reference:
+
+Wang, T., Liu, J., Shen, L., Tonti-Filippini, J., Zhu, Y., Jia, H., Lister, R., Whitaker, J.W., Ecker, J.R., Millar, A.H., Ren, B. and Wang, W. (2013) STAR: an integrated solution to management and visualization of sequencing data, Bioinformatics, 29, 3204-3210.
+
+
 Easily visualization of complex data features is a necessary step to conduct studies on next generation sequencing (NGS) data.STAR is an integrated web application that enables online management, visualization, and track-based analysis of next generation sequencing data. 
 
 To use our STAR system, please visit the following URL:
